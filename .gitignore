@@ -1,0 +1,5 @@
+*.pdf
+memo*
+command_history.txt
+*.swp
+token.mat
